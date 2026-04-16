@@ -1,2 +1,2 @@
 it is text2 file
-edited in github branch = next_branch.
+edited in github branch = again by next_branch.
