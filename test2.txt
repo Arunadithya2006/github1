@@ -1,2 +1,2 @@
 it is text2 file
-edited  =  main;
+edited  =  main and main;
