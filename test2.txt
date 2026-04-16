@@ -1,2 +1,3 @@
 it is text2 file
+edited  =  nextbr;
 edited  =  newbr;
