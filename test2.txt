@@ -3,3 +3,4 @@ edited  =  nextbr;
 edited  =  newbr;
 
 new commit in next branch;
+this is second commit by next branch;
